@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.config": "javascript",
+        "*.wxml": "html",
+        "*.wxss": "css"
+    }
+}
